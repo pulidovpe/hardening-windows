@@ -1,0 +1,7 @@
+"Grupo","Name","ObjectClass"
+"Administradores","WIN-SRV2019\Administrador","Usuario"
+"IIS_IUSRS","NT AUTHORITY\IUSR","Grupo"
+"Invitados","WIN-SRV2019\Invitado","Usuario"
+"System Managed Accounts Group","WIN-SRV2019\DefaultAccount","Usuario"
+"Usuarios","NT AUTHORITY\INTERACTIVE","Grupo"
+"Usuarios","NT AUTHORITY\Usuarios autentificados","Grupo"

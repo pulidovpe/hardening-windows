@@ -1,0 +1,5 @@
+"AccountExpires","Description","Enabled","FullName","PasswordChangeableDate","PasswordExpires","UserMayChangePassword","PasswordRequired","PasswordLastSet","LastLogon","Name","SID","PrincipalSource","ObjectClass"
+,"Cuenta integrada para la administraci?n del equipo o dominio","True","","04/05/2026 18:55:07",,"True","True","04/05/2026 18:55:07","05/05/2026 7:06:14","Administrador","S-1-5-21-992837281-2974662263-626925419-500","Local","Usuario"
+,"Cuenta de usuario administrada por el sistema.","False","",,,"True","False",,,"DefaultAccount","S-1-5-21-992837281-2974662263-626925419-503","Local","Usuario"
+,"Cuenta integrada para el acceso como invitado al equipo o dominio","False","",,,"False","False",,,"Invitado","S-1-5-21-992837281-2974662263-626925419-501","Local","Usuario"
+,"Una cuenta de usuario que el sistema administra y usa para escenarios de Protecci?n de aplicaciones de Windows Defender.","False","","04/05/2026 12:45:26","15/06/2026 12:45:26","True","True","04/05/2026 12:45:26",,"WDAGUtilityAccount","S-1-5-21-992837281-2974662263-626925419-504","Local","Usuario"
